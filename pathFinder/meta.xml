@@ -1,0 +1,6 @@
+<meta>
+<info type="map" gamemodes="" name="Spawn" author="nil" description="nil" version="nil" />
+  <script type="server" src="server.lua" />
+  <script type="client" src="path.lua" />
+  <script type="client" src="pathFinder.lua" />
+</meta>
